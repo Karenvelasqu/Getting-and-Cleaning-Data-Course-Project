@@ -16,6 +16,15 @@ For the script, the 5 recommendations were taken into account, which were execut
     
     - Read Train and Test Tables
     
+    features.txt
+    activity_labels.txt
+    subject_train.txt
+    TrainX.txt
+    TrainY.txt
+    subject_test.txt
+    TestX.txt
+    TextY.txt
+    
     - It reads vectors: feature, activity labels
     
     - Names are assigned to columns
